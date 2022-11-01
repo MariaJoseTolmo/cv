@@ -14,7 +14,7 @@ function ControlledCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=First slide&bg=373940"
+          src="../src/assets/img/gettyimages-606349595-612x612.jpg"
           alt="First slide"
         />
         <Carousel.Caption>
@@ -25,7 +25,7 @@ function ControlledCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Second slide&bg=282c34"
+          src="../src/assets/img/descarga.jpeg"
           alt="Second slide"
         />
 
@@ -37,7 +37,7 @@ function ControlledCarousel() {
       <Carousel.Item>
         <img
           className="d-block w-100"
-          src="holder.js/800x400?text=Third slide&bg=20232a"
+          src="../src/assets/img/360_F_367870527_Sr7I9fcmdMSclGLLjJf1KROSkFIGzpdH.jpg"
           alt="Third slide"
         />
 
